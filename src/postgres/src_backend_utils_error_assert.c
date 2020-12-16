@@ -57,5 +57,5 @@ ExceptionalCondition(const char *conditionName,
 	sleep(1000000);
 #endif
 
-	abort();
+	//abort();
 }
